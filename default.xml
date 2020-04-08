@@ -786,6 +786,7 @@
 
   <include name="replace.xml" />
   <include name="skunk.xml" />
-  <include name="foss.xml" />
-
+  <include name="foss.xml"
+  <include name="opengapps.xml" />
+  
 </manifest>
