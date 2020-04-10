@@ -6,7 +6,7 @@ Initializing Repository
 Repo initialization :
     
     ## Releases Repo ##
-    $ repo init -u https://github.com/skunkworkx-gsi/platform_manifest.git -b aosp-gsi
+    $ repo init -u https://github.com/skunkworkx-gsi/manifest.git -b aosp-gsi
 
 sync repo :
 
