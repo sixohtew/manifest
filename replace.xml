@@ -5,6 +5,7 @@
 <remove-project name="platform/build" />
 <project path="build/make" name="platform_build" remote="skunk" revision="android-10.0.0_r33-phh">
     <copyfile dest="Makefile" src="core/root.mk" />
+    <copyfile src="core/treble/build-treble.sh" dest="build-treble.sh" />
     <linkfile dest="build/CleanSpec.mk" src="CleanSpec.mk" />
     <linkfile dest="build/buildspec.mk.default" src="buildspec.mk.default" />
     <linkfile dest="build/core" src="core" />
