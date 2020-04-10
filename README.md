@@ -6,7 +6,7 @@ Initializing Repository
 Repo initialization :
     
     ## Releases Repo ##
-    $ repo init -u https://github.com/BlissRoms/platform_manifest.git -b p9.0
+    $ repo init -u https://github.com/skunkworkx-gsi/platform_manifest.git -b aosp-gsi
 
 sync repo :
 
